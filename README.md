@@ -1,4 +1,4 @@
-# Analytical_mechanics
+# Analytical mechanics
 
 ## install libs using `pip`
 ``` sh
