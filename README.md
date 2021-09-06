@@ -1,6 +1,6 @@
 # Analytical_mechanics
 
-## install libs via `pip`
+## install libs using`pip`
 ``` sh
 $ pip install numpy matplotlib sympy  
 ```
