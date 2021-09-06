@@ -4,3 +4,5 @@
 ``` sh
 $ pip install numpy matplotlib sympy  
 ```
+## for linuxoids:
+install `tkinter`
