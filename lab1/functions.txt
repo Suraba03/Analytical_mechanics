@@ -1,0 +1,3 @@
+r(t) = 1 + sin 5t
+    Vx(t) = 5 * cos(5t) * t_x' 
+phi(t) = t + 0.3 sin 30t
